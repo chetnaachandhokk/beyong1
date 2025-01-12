@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[177],{p5KH:function(n,e,t){"use strict";t.r(e);var r=t("nKUr");t("q1tI"),t("g4pe");e.default=function(n){var e=n.footer;return Object(r.jsx)(r.Fragment,{children:e&&Object(r.jsx)("div",{dangerouslySetInnerHTML:{__html:e.description}})})}}}]);
